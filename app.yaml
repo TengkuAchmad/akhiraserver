@@ -1,0 +1,8 @@
+runtime: python310
+
+env_variables:
+  DB_USER_CONFIG            : inagi 
+  DB_PASSWORD_CONFIG        : bismillah#Inagri123
+  DB_DATABASE_NAME_CONFIG   : akhira_db
+  DB_HOST_CONFIG            : 139.59.117.14
+  DB_PORT_CONFIG            : 5432
